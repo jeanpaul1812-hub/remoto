@@ -3,6 +3,7 @@
 .idea/
 *.suo
 *.swp
+*.txt
 
 # --- Archivos basura del Sistema Operativo ---
 Thumbs.db
